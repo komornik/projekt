@@ -7,3 +7,11 @@ C:\Documents and Settings\lukasz.matusek\Moje dokumenty\projekt\projekt\Bibliote
 C:\Documents and Settings\lukasz.matusek\Moje dokumenty\projekt\projekt\Biblioteka\Biblioteka\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Documents and Settings\lukasz.matusek\Moje dokumenty\projekt\projekt\Biblioteka\Biblioteka\obj\x86\Debug\Biblioteka.exe
 C:\Documents and Settings\lukasz.matusek\Moje dokumenty\projekt\projekt\Biblioteka\Biblioteka\obj\x86\Debug\Biblioteka.pdb
+F:\studia\biblioteka\projekt\Biblioteka\Biblioteka\obj\x86\Debug\Biblioteka.exe
+F:\studia\biblioteka\projekt\Biblioteka\Biblioteka\obj\x86\Debug\Biblioteka.pdb
+F:\studia\biblioteka\projekt\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+F:\studia\biblioteka\projekt\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+F:\studia\biblioteka\projekt\Biblioteka\Biblioteka\obj\x86\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+F:\studia\biblioteka\projekt\Biblioteka\Biblioteka\obj\x86\Debug\Biblioteka.Form1.resources
+F:\studia\biblioteka\projekt\Biblioteka\Biblioteka\obj\x86\Debug\Biblioteka.Properties.Resources.resources
+F:\studia\biblioteka\projekt\Biblioteka\Biblioteka\obj\x86\Debug\Biblioteka.csproj.GenerateResource.Cache

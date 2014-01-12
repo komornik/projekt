@@ -67,6 +67,7 @@
             // 
             // Pracownicy
             // 
+            this.Pracownicy.AutoScroll = true;
             this.Pracownicy.Controls.Add(this.panel1);
             this.Pracownicy.Controls.Add(this.comboBox1);
             this.Pracownicy.Controls.Add(this.label1);
