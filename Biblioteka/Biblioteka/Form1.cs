@@ -23,6 +23,7 @@ namespace Biblioteka
             Zakladki.Size = new Size(x,y);
         }
 
+
         
 
        
