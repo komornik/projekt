@@ -1,0 +1,8 @@
+F:\studia\biblioteka\projekt\Baza\Baza\bin\Release\Baza.exe
+F:\studia\biblioteka\projekt\Baza\Baza\bin\Release\Baza.pdb
+F:\studia\biblioteka\projekt\Baza\Baza\obj\x86\Release\WindowsFormsApplication1.PracownikForm.resources
+F:\studia\biblioteka\projekt\Baza\Baza\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+F:\studia\biblioteka\projekt\Baza\Baza\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\studia\biblioteka\projekt\Baza\Baza\obj\x86\Release\Baza.csproj.GenerateResource.Cache
+F:\studia\biblioteka\projekt\Baza\Baza\obj\x86\Release\Baza.exe
+F:\studia\biblioteka\projekt\Baza\Baza\obj\x86\Release\Baza.pdb
