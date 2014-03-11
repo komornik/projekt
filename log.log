@@ -1,0 +1,8 @@
+total 5
+drwxr-xr-x   12 admin    Administ     4096 Mar 11 18:04 .git
+drwxr-xr-x    5 admin    Administ        0 Mar 11 18:04 Baza
+drwxr-xr-x    4 admin    Administ        0 Mar 11 18:04 Biblioteka
+-rw-r--r--    1 admin    Administ      183 Mar 11 18:04 README.md
+drwxr-xr-x    7 admin    Administ     4096 Mar 11 18:04 diagram EERD
+drwxr-xr-x    4 admin    Administ        0 Mar 11 18:04 diagram UML
+-rw-r--r--    1 admin    Administ        0 Mar 11  2014 log.log
